@@ -1,4 +1,4 @@
-## Hi there 👋
+##                                                 Hi there 👋
 
 I'm Neil Mani
 You can see a lot of my work here as a begginer programmer.
