@@ -1,8 +1,6 @@
-##                                                 Hi there 👋
+<h1 align="center">👋 Hi There</h1>
 
-I'm Neil Mani
-You can see a lot of my work here as a begginer programmer.
-I love coding for web-development but I also enjoy learning new languages as well.
+My name is Neil and I love programming!
 
 <div align="center">
 
