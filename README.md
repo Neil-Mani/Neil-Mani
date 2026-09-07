@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hi There</h1>
-
-<p align="center">My name is Neil and I love programming!</p>
-
+<h1 align="center">👋 Hi There, Im Neil!</h1>
 
 <div align="center">
 
