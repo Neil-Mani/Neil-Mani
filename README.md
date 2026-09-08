@@ -1,5 +1,5 @@
 # Hey!👋 Im Neil Mani!
-🔭 I’m currently working on an Operating System<br>👯 I’m looking to collaborate on my Custom Operating System<br>🤝 I’m looking for help with building a custom computer for my OS<br>🌱 I’m currently learning Electronics and Programming<br>💬 Ask me about any of my Repos<br>⚡ Fun fact: I am a Self-Taught Developer
+🔭 I’m currently working on many projects<br>👯 I’m looking to collaborate on my projects<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning Electronics and Programming<br>💬 Ask me about any of my Repos<br>⚡ Fun fact: I am a Self-Taught Developer
 
 
 ## 🌐 Socials:
